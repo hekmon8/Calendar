@@ -1,0 +1,6 @@
+framework module NCHCalendar {
+  umbrella header "NCHCalendar-umbrella.h"
+
+  export *
+  module * { export * }
+}

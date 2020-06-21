@@ -1,0 +1,16 @@
+PODS:
+  - NCHCalendar (0.0.1)
+
+DEPENDENCIES:
+  - NCHCalendar (from `../`)
+
+EXTERNAL SOURCES:
+  NCHCalendar:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  NCHCalendar: 314c9bf226dcc8bab97a31aff54ce4e8233e8fa3
+
+PODFILE CHECKSUM: cb04007e1e719d5649dfb974fb87ca5ab32a87e8
+
+COCOAPODS: 1.9.1
